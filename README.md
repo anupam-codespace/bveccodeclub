@@ -15,7 +15,7 @@ Web Development (Frontend & Backend)
 App Development
 Open-Source Contributions
 Technical Webinars and Workshops
-Let’s grow together and make this event a massive success for Hacktoberfest 2024! 🚀
+Let’s grow together and make this event a massive success for Hacktoberfest 2024! 🚀.
 
 For more details, feel free to check out our website:
 https://coding.bvec.ac.in/
